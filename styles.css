@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #f8f9fa, #dfefff);
+  }
+  
+  .card {
+    border-radius: 16px;
+  }
+  
+  .task-text.done {
+    text-decoration: line-through;
+    color: gray;
+  }
+  
